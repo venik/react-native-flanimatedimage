@@ -8,8 +8,10 @@
 
 #import <Foundation/Foundation.h>
 
-#import <React/RCTUIManager.h>
-#import <React/UIView+React.h>
+//#import <Modules/RCTUIManager.h>
+#import <RCTImageViewManager.h>
+//#import <Views/RCTViewManager.h>
+//#import <Views/UIView+React.h>
 
 #import "RNFLAnimatedImageManager.h"
 #import "RNFLAnimatedImage.h"

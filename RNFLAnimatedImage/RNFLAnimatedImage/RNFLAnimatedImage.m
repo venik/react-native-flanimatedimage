@@ -9,13 +9,18 @@
 #import <Foundation/Foundation.h>
 #import <ImageIO/ImageIO.h>
 
-#import "FLAnimatedImage.h"
+//#import "RNFLAnimatedImage.h"
+//#import "FLAnimatedImage.h"
+#import "FLAnimatedImage/FLAnimatedImage.h"
 #import "RNFLAnimatedImage.h"
 
 #import <React/RCTBridgeModule.h>
+//#import <React/Base/RCTBridgeModule.h>
 #import "RCTImageUtils.h"
 #import <React/UIView+React.h>
+//#import <React/Views/UIView+React.h>
 #import <React/RCTLog.h>
+//#import <React/Base/RCTLog.h>
 
 @implementation RNFLAnimatedImage  {
   

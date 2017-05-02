@@ -6,7 +6,8 @@
 //  Copyright © 2016 Neo. All rights reserved.
 //
 
-#import <React/RCTViewManager.h>
+//#import <React/Views/RCTViewManager.h>
+#import <RCTImageViewManager.h>
 
 @interface RNFLAnimatedImageManager : RCTViewManager
 
