@@ -226,8 +226,8 @@
 					"$(SRCROOT)/../../react-native/Libraries/Image",
 					"$(SRCROOT)/../../../react-native/React/**",
 					"$(SRCROOT)/../../../react-native/Libraries/Image",
-					"$(SRCROOT)/../../../RNApp/ios/Pods/FLAnimatedImage/FLAnimatedImage",
-					"$(SRCROOT)/../../../RNApp/ios/Pods/Headers/Public/FLAnimatedImage",
+					"$(SRCROOT)/../../../RNApp/ios/Pods/FLAnimatedImage",
+					"$(SRCROOT)/../../../RNApp/ios/Pods/Headers/Public",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -244,8 +244,8 @@
 					"$(SRCROOT)/../../react-native/Libraries/Image",
 					"$(SRCROOT)/../../../react-native/React/**",
 					"$(SRCROOT)/../../../react-native/Libraries/Image",
-					"$(SRCROOT)/../../../RNApp/ios/Pods/FLAnimatedImage/FLAnimatedImage",
-					"$(SRCROOT)/../../../RNApp/ios/Pods/Headers/Public/FLAnimatedImage",
+					"$(SRCROOT)/../../../RNApp/ios/Pods/FLAnimatedImage",
+					"$(SRCROOT)/../../../RNApp/ios/Pods/Headers/Public",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
